@@ -2,9 +2,9 @@
   <img src="assets/logo.png" alt="Project Logo" width="220"/>
 </p>
 
-<p style="text-align: center; font-size: 2em; font-weight: bold; margin: 0.67em 0;">
+<h1 align="center">
   🤖✨ Towards Seamless Interaction: Causal Turn-Level Modeling of Interactive 3D Conversational Head Dynamics
-</p>
+</h1>
 
 <p align="center">
   <a href="./assets/paper.pdf">
@@ -38,7 +38,7 @@
   </p>
 </p>
 
----
+<br/>
 
 ## 🔥 Highlights
 
