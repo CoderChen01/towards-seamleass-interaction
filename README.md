@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="assets/logo.png" alt="Project Logo" width="220"/>
+  <a href="https://arxiv.org/abs/2512.15340">
+    <img src="assets/logo.png" alt="Project Logo" width="220"/>
+  </a>
 </p>
 
 <h1 align="center">
