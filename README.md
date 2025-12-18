@@ -113,13 +113,19 @@ We evaluate our framework on the **interactive 3D conversational head benchmark*
 <summary>Click to see the results</summary>
 <p align="center">
   <img src="assets/qual_results.png" alt="Qualitative Results" width="90%"/>
-</p><br/>
+</p>
 
 | Demo | Preview |
 |------|---------|
-| Demo 1 | <video src="https://github.com/user-attachments/assets/f221fc7f-9171-4abc-a13b-c83469e8b731" controls width="300"></video> |
-| Demo 2 | <video src="https://github.com/user-attachments/assets/dc7cbdae-1be1-492e-ac9e-55ecc27fa35d" controls width="300"></video> |
-| Demo 3 | <video src="https://github.com/user-attachments/assets/d8b536fb-14e4-4121-ab76-33ebf159e9f2" controls width="300"></video> |
+| Demo&nbsp;1 | <video src="https://github.com/user-attachments/assets/f221fc7f-9171-4abc-a13b-c83469e8b731" controls width="320"></video> |
+| Demo&nbsp;2 | <video src="https://github.com/user-attachments/assets/dc7cbdae-1be1-492e-ac9e-55ecc27fa35d" controls width="320"></video> |
+| Demo&nbsp;3 | <video src="https://github.com/user-attachments/assets/d8b536fb-14e4-4121-ab76-33ebf159e9f2" controls width="320"></video> |
+
+> **Notation**
+> 
+> - **Agent GT** denotes the ground-truth 3D head motion.  
+> - **TIMAR Agent** denotes our generated results.  
+> - **DualTalk Agent** denotes the outputs from the DualTalk baseline.
 </details>
 
 TIMAR produces:
