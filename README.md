@@ -156,6 +156,7 @@ If you find this work useful, please consider citing:
   journal={arXiv preprint arXiv:2512.15340},
   year={2025}
 }
+```
 
 <br/>
 <p align="center">
